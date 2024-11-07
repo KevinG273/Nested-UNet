@@ -76,7 +76,7 @@ mIoU = \frac{1}{N} \sum_{i=1}^{N} IoU_i
   <img src="img/UNet++.png" alt="UNet++" width="600"/>
 </div>
 <div align="center">
-  <img src="img/UNet++(1).png" alt="UNet++(1)" width="850" height="150"/>
+  <img src="img/UNet++(1).png" alt="UNet++(1)" style="width:80%; height:auto;"/>
 </div>
 
 ## 5. Segmentation Result Using U-Net++
