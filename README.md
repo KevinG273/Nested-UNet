@@ -1,4 +1,4 @@
-# Segmentation with U-Net and its Variant
+# Image Segmentation with U-Net and its Variant
 
 ## 1. Image Segmentation Basics
 - **Definition**: Pixel-by-pixel classification to identify specific objects.
@@ -76,12 +76,12 @@ mIoU = \frac{1}{N} \sum_{i=1}^{N} IoU_i
   <img src="img/UNet++.png" alt="UNet++" width="600"/>
 </div>
 <div align="center">
-  <img src="img/UNet++(1).png" alt="UNet++(1)" style="width:80%; height:auto;"/>
+  <img src="img/UNet++(1).png" alt="UNet++(1)"/>
 </div>
 
 ## 5. Segmentation Result Using U-Net++
 <div align="center">
-  <img src="img/result.png" alt="result" width="1000"/>
+  <img src="img/result.png" alt="result"/>
 </div>
 
 
